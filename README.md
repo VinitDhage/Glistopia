@@ -62,6 +62,6 @@ Contributions are welcome! If you'd like to contribute to the project, follow th
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [VD License](LICENSE).
 
 Feel free to customize this README to better suit your project's specifics. Good luck with your Glistopia landing page!
