@@ -48,7 +48,7 @@ This landing page is designed for Glistopia, a remote user research platform. It
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/VinitDhage/Landing-Page
+    git clone https://github.com/VinitDhage/Landing-Page.git
     ```
 
 2. Open the `index.html` file in your preferred web browser to view the landing page.
